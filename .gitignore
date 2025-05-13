@@ -1,0 +1,6 @@
+# Image directories
+input
+output
+
+# MacOS
+.DS_Store
